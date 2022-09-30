@@ -1,9 +1,9 @@
 [ 
 {
-    "id": 0,
-    "name":"Hydra",
+    "id": 7545,
+    "name":"Yeah boy",
     "purpose": "attack",
-    "Type": "Bruteforcing",
+    "Type": "Dynamic Programming",
     "CurrentVersion": "9.3",
     "Image": "https://www.kali.org/tools/hydra/images/hydra-logo.svg",
     "More info": "//www.kali.org/tools/hydra/"
