@@ -135,6 +135,7 @@
     "Image": "https://www.google.com/search?q=current+version+of+kismet&sxsrf=ALiCzsZTUS6CBgYerTnnnRq66Rr9qbTpRA:1664562082542&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3uIv9kL36AhWGwzgGHcuyCuEQ_AUoA3oECAIQBQ&biw=1292&bih=636&dpr=1#imgrc=masbEm32bZSD2M",
     "More info": "https://en.wikipedia.org/wiki/Kismet_(software)#:~:text=Kismet%20is%20a%20network%20detector,NetBSD%2C%20OpenBSD%2C%20and%20macOS.",
   },
+
 {
  "id": 13,
     "name":"Ware",
@@ -144,8 +145,27 @@
     "Image": "https://www.google.com/search?q=current+version+of+kismet&sxsrf=ALiCzsZTUS6CBgYerTnnnRq66Rr9qbTpRA:1664562082542&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3uIv9kL36AhWGwzgGHcuyCuEQ_AUoA3oECAIQBQ&biw=1292&bih=636&dpr=1#imgrc=masbEm32bZSD2M",
     "More info": "https://en.wikipedia.org/wiki/Kismet_(software)#:~:text=Kismet%20is%20a%20network%20detector,NetBSD%2C%20OpenBSD%2C%20and%20macOS.",
   },
+ {
+ "id": 13,
+    "name":"Hack the box",
+    "purpose": "Exploitable vulnerabalities can be detected by using this tool",
+    "Type": "Works mainly on fundamentals of code",
+    "CurrentVersion": "Hack the box",
+    "Image": "https://pbs.twimg.com/profile_images/1480475397330554887/OxV8s_2j_400x400.jpg",
+    "More info": "https://apply.workable.com/hack-the-box-ltd/?lng=en",
+  }
 
 
+
+{
+    "id": 0,
+    "name":"Hydra",
+    "purpose": "attack",
+    "Type": "Bruteforcing",
+    "CurrentVersion": "9.3",
+    "Image": "https://www.kali.org/tools/hydra/images/hydra-logo.svg",
+    "More info": "//www.kali.org/tools/hydra/"
+},
 
 
 
