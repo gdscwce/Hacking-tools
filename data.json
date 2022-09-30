@@ -167,6 +167,16 @@
     "More info": "https://en.wikipedia.org/wiki/OpenVAS.",
   },
 
+{
+ "id": 20,
+    "name":"Nessus",
+    "purpose": "Nessus can detect the following vulnerabilities:Unpatched services and misconfiguration,Weak passwords – default and common,Various system vulnerabilities",
+    "Type": "Scanner",
+    "CurrentVersion": "10.3.0",
+    "Image": "22.4.0 - 2022-07-18",
+    "More info": "https://www.tenable.com/products/nessus",
+  },
+
   
 ]
 
