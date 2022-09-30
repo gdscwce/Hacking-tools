@@ -120,7 +120,28 @@
     "Type": "Network detector",
     "CurrentVersion": "Kismet 2022-08-R1.",
     "Image": "https://www.google.com/search?q=current+version+of+kismet&sxsrf=ALiCzsZTUS6CBgYerTnnnRq66Rr9qbTpRA:1664562082542&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3uIv9kL36AhWGwzgGHcuyCuEQ_AUoA3oECAIQBQ&biw=1292&bih=636&dpr=1#imgrc=masbEm32bZSD2M",
+  
+    "More info": "https://en.wikipedia.org/wiki/Kismet_(software)#:~:text=Kismet%20is%20a%20network%20detector,NetBSD%2C%20OpenBSD%2C%20and%20macOS.",
+  },
+
+{
+ "id": 13,
+    "name":"Nmap (Network Mapper)",
+    "purpose": "This is the best ethical hacking tool used for testing wireless networks and hacking of wireless LAN or wardriving",
+    "Type": "Network Mapper",
+    "CurrentVersion": "7.93",
+    "Image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2020%2F09%2F1-15.png&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fwhat-is-nmap-and-how-to-use-it-a-tutorial-for-the-greatest-scanning-tool-of-all-time%2F&tbnid=xtO_ujgdQUwBOM&vet=12ahUKEwj-uPHzkr36AhV7M7cAHXtlDgEQMygBegUIARDHAQ..i&docid=2nT2su9Z99g1RM&w=1280&h=800&q=Nmap%20(Network%20Mapper)&ved=2ahUKEwj-uPHzkr36AhV7M7cAHXtlDgEQMygBegUIARDHAQ",
+    "More info": "https://nmap.org/#:~:text=Nmap%20(%22Network%20Mapper%22),monitoring%20host%20or%20service%20uptime.",
+  } 
+
+
+
+
+
+
+
     "More info": "https://en.wikipedia.org/wiki/Kismet_(software)#:~:text=Kismet%20is%20a%20network%20detector,NetBSD%2C%20OpenBSD%2C%20and%20macOS
+
 
 
 
