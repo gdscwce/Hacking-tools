@@ -125,6 +125,16 @@
     "Image": "https://www.google.com/search?q=current+version+of+kismet&sxsrf=ALiCzsZTUS6CBgYerTnnnRq66Rr9qbTpRA:1664562082542&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3uIv9kL36AhWGwzgGHcuyCuEQ_AUoA3oECAIQBQ&biw=1292&bih=636&dpr=1#imgrc=masbEm32bZSD2M",
     "More info": "https://en.wikipedia.org/wiki/Kismet_(software)#:~:text=Kismet%20is%20a%20network%20detector,NetBSD%2C%20OpenBSD%2C%20and%20macOS.",
   } 
+,
+{
+ "id": 13,
+    "name":"network mapper",
+    "purpose": "used in port scanning, one of the phases in ethical hacking, is the finest hacking software ever. Primarily a command-line tool",
+    "Type": "Network mapper",
+    "CurrentVersion": "-",
+    "Image": "-",
+    "More info": "https://www.simplilearn.com/top-5-ethical-hacking-tools-rar313-article",
+  } 
 
 
 
