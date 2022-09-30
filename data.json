@@ -120,7 +120,8 @@
     "Type": "Network detector",
     "CurrentVersion": "Kismet 2022-08-R1.",
     "Image": "https://www.google.com/search?q=current+version+of+kismet&sxsrf=ALiCzsZTUS6CBgYerTnnnRq66Rr9qbTpRA:1664562082542&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3uIv9kL36AhWGwzgGHcuyCuEQ_AUoA3oECAIQBQ&biw=1292&bih=636&dpr=1#imgrc=masbEm32bZSD2M",
-    "More info": "https://en.wikipedia.org/wiki/Kismet_(software)#:~:text=Kismet%20is%20a%20network%20detector,NetBSD%2C%20OpenBSD%2C%20and%20macOS.",
+    "More info": "https://en.wikipedia.org/wiki/Kismet_(software)#:~:text=Kismet%20is%20a%20network%20detector,NetBSD%2C%20OpenBSD%2C%20and%20macOS
+
 
 
   } 
@@ -135,26 +136,15 @@
     "More info": "https://www.simplilearn.com/top-5-ethical-hacking-tools-rar313-article",
   } 
   },
-
-
 {
- "id": 13,
-    "name":"Ware",
-    "purpose": "Cracking username and password",
-    "Type": "Networking",
-    "CurrentVersion": "Ware 2.w1",
-    "Image": "https://www.google.com/search?q=current+version+of+kismet&sxsrf=ALiCzsZTUS6CBgYerTnnnRq66Rr9qbTpRA:1664562082542&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3uIv9kL36AhWGwzgGHcuyCuEQ_AUoA3oECAIQBQ&biw=1292&bih=636&dpr=1#imgrc=masbEm32bZSD2M",
-    "More info": "https://en.wikipedia.org/wiki/Kismet_(software)#:~:text=Kismet%20is%20a%20network%20detector,NetBSD%2C%20OpenBSD%2C%20and%20macOS.",
+ "id": 19,
+    "name":"OpenVASt",
+    "purpose": "The scanner component of Greenbone Vulnerability Manager (GVM)",
+    "Type": "Network detector",
+    "CurrentVersion": "22.4.0 - 2022-07-18",
+    "Image": "22.4.0 - 2022-07-18",
+    "More info": "https://en.wikipedia.org/wiki/OpenVAS.",
   },
- {
- "id": 14,
-    "name":"Hack the box",
-    "purpose": "Exploitable vulnerabalities can be detected by using this tool",
-    "Type": "Works mainly on fundamentals of code",
-    "CurrentVersion": "Hack the box",
-    "Image": "https://pbs.twimg.com/profile_images/1480475397330554887/OxV8s_2j_400x400.jpg",
-    "More info": "https://apply.workable.com/hack-the-box-ltd/?lng=en",
-  }
 
   
 ]
