@@ -198,7 +198,15 @@
     "More info": "https://github.com/ffuf/ffuf",
   },
 
-  
+  {
+ "id": 22,
+    "name":"Dirsearch",
+    "purpose": "Dirsearch  is a command-line tool designed to brute force directories and files in webservers.
+    "Type": "fuzzer",
+    "current version: 0.4.2
+    "Image": "https://raw.githubusercontent.com/maurosoria/dirsearch/master/static/logo.png
+    "More info": https://github.com/maurosoria/dirsearch,
+  },
 ]
 
     
