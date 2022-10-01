@@ -177,6 +177,16 @@
     "More info": "https://www.tenable.com/products/nessus",
   },
 
+{
+ "id": 21,
+    "name":"Burp Suite",
+    "purpose": "Burp Suite is an integrated platform/graphical tool for performing security testing of web applications",
+    "Type": "Scanner",
+    "CurrentVersion": "2022.9.1",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png",
+    "More info": "https://portswigger.net/burp",
+  },
+
   
 ]
 
