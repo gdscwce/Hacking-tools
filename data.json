@@ -176,16 +176,15 @@
     "Image": "22.4.0 - 2022-07-18",
     "More info": "https://www.tenable.com/products/nessus",
   },
-
 {
  "id": 21,
-    "name":"Burp Suite",
-    "purpose": "Burp Suite is an integrated platform/graphical tool for performing security testing of web applications",
-    "Type": "Scanner",
-    "CurrentVersion": "2022.9.1",
-    "Image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png",
-    "More info": "https://portswigger.net/burp",
-  },
+    "name":"LC4",
+    "purpose": "It is a password auditing and recovery application. It is used to test password strength "
+    "Type": "Password recovery",
+    "CurrentVersion": "7.1",
+    "Image": "https://th.bing.com/th/id/R.305f236d1414b93f85c5e748e5370e18?rik=rt8rUJqZoohlDg&riu=http%3a%2f%2ffossbytes.com%2fwp-content%2fuploads%2f2016%2f09%2fl0phtcrack-7-download.jpg&ehk=gp27q22LIflh2h%2bqVnqFTGsHZ6UPH2c%2fJLua4FL0wyg%3d&risl=&pid=ImgRaw&r=0",
+    "More info": "https://l0phtcrack.gitlab.io/",
+  }
 
   
 ]
