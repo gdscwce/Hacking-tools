@@ -189,6 +189,18 @@
 
   
 ]
+{
+ "id": 22,
+    "name":"ffuf",
+    "purpose": "ffuf is a fuzzing tool, that helps to bruteforce.",
+    "Type": "Scanner",
+    "CurrentVersion": "1.5.0",
+    "Image": "https://github.com/ffuf/ffuf/blob/master/_img/ffuf_run_logo_600.png",
+    "More info": "https://github.com/ffuf/ffuf",
+  },
+
+  
+]
 
     
   
