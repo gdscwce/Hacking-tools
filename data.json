@@ -215,6 +215,25 @@
     "CurrentVersion": "2.0.15",
     "More info": "https://github.com/rbsec/sslscan",
   },
+   {
+       "id":24,
+       "name": "RsaCtfTool",
+       "prupose": "RSA multi attacks tool : uncipher data from weak public key.",
+       "type": "Crypto",
+       "CurrentVersion": "-",
+       "Image": "-",
+       "More info": "https://github.com/RsaCtfTool/RsaCtfTool"
+   },
+
+{
+    "id": 27,
+    "name":"Rapid7",
+    "purpose": "manage vulnerabilities, monitor for malicious behavior, investigate and shut down attacks, and automate your operations.",
+    "Type": "Insight Platform",
+    "CurrentVersion": "6.161",
+    "Image": "https://www.exclusive-networks.com/in/wp-content/uploads/sites/5/2021/02/Rapid-7-Logo.png",
+    "More info": "https://www.rapid7.com/"
+ },
 ]
 
     
