@@ -1,2 +1,2 @@
 # Hacking-tools
-commanly used hacking tools
+Commonly used hacking tools
