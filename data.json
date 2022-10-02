@@ -207,6 +207,14 @@
     "Image": "https://raw.githubusercontent.com/maurosoria/dirsearch/master/static/logo.png
     "More info": https://github.com/maurosoria/dirsearch,
   },
+    {
+     "id": 23,
+    "name":"sslscan",
+    "purpose": "SSLScan queries SSL services, such as HTTPS, in order to determine the ciphers that are supported.",
+    "Type": "Scanner",
+    "CurrentVersion": "2.0.15",
+    "More info": "https://github.com/rbsec/sslscan",
+  },
 ]
 
     
