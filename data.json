@@ -234,6 +234,14 @@
     "Image": "https://www.exclusive-networks.com/in/wp-content/uploads/sites/5/2021/02/Rapid-7-Logo.png",
     "More info": "https://www.rapid7.com/"
  },
+{
+    "id": 28,
+    "name":"apktool",
+    "purpose": "Decompile or build the apk, to see the source code of apk or to build the edited apk.",
+    "Type": "Decompiler",
+    "CurrentVersion": "2.5.0",
+    "More info": "https://github.com/iBotPeaches/Apktool"
+ },
 ]
 
     
