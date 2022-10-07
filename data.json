@@ -230,5 +230,14 @@
     "CurrentVersion": "1.6.7",
     "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png",
     "More info": "https://sqlmap.org/"
+  },
+  {
+    "id": 29,
+    "name": "Burpsuite",
+    "purpose": "Very helpful tool for web application penetration testing",
+    "Type": "Request Capturer",
+    "CurrentVersion": "2022.9.2",
+    "Image": "https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg",
+    "More info": "https://portswigger.net/"
   }
 ]
