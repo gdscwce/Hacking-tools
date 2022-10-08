@@ -241,3 +241,14 @@
     "More info": "https://portswigger.net/"
   }
 ]
+
+},
+ {
+    "id": 300,
+    "name": "LiveAction",
+    "purpose": "It automates the capture of the network data required to quickly investigate security alerts and integrated appliance solutions",
+    "Type": "Network Diagnose Platform",
+    "CurrentVersion": " ",
+    "Image": "https://images.app.goo.gl/fRuDC7uPLHaZnsh68",
+    "More info": "https://www.liveaction.com/"
+ }
