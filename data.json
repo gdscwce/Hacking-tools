@@ -239,5 +239,14 @@
     "CurrentVersion": "2022.9.2",
     "Image": "https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg",
     "More info": "https://portswigger.net/"
+  },
+  {
+    "id": 31,
+    "name": "jSQL Injection",
+    "purpose": "Useful  for web  SQl Injection and application penetration testing",
+    "Type": "Request Capturer",
+    "CurrentVersion": "17.1.3",
+    "Image": "https://www.serverwatch.com/wp-content/uploads/2022/01/jSQL-Injection-696x522.png",
+    "More info": "https://portswigger.net/"
   }
 ]
