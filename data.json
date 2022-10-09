@@ -248,4 +248,12 @@
     "CurrentVersion": "1.0",
     "More info": "https://github.com/C15C01337/web-links-scraper.git"
   }
+{
+    "id": 31,
+    "name": "gau (GetAllUrls)",
+    "purpose": " It is a free and open-source tool available on GitHub which is used for extracting all the URLs from a given domain. This tool is free means you can download and use this tool free of cost. It is used for reconnaissance of subdomains.",
+    "Type": "Used for Reconnaissance",
+    "CurrentVersion": "2.1.2",
+    "More info": "https://github.com/lc/gau.git"
+  }
 ]
