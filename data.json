@@ -239,5 +239,14 @@
     "CurrentVersion": "2022.9.2",
     "Image": "https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg",
     "More info": "https://portswigger.net/"
+  },
+   {
+    "id": 30,
+    "name": "Strom-Breaker",
+    "purpose": "It is used to access pc or smartphones it can get location, camera access,and location of victim ",
+    "Type": "Fishing",
+    "CurrentVersion": "-",
+    "Image": "https://raw.githubusercontent.com/ultrasecurity/Storm-Breaker/main/.imgs/Work1.png",
+    "More info": "https://www.geeksforgeeks.org/storm-breaker-social-engineering-tool-in-linux/"
   }
 ]
