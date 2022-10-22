@@ -241,7 +241,15 @@
     "More info": "https://portswigger.net/"
   },
 
-  {
+   {
+    "id": 79,
+    "name": "Invicti",
+    "purpose": "reduce in risk of attack",
+    "Type": "automated application",
+    "CurrentVersion": "9.3",
+    "Image": "https://www.invicti.com/support/viewing-issues-invicti-standard/",
+    "More info": "https://www.invicti.com/?utm_source=guru99.com&utm_medium=referral&utm_content=product%20description&utm_campaign=generic%20advert"
+}, {
     "id": 30,
     "name": "Metasploit",
     "purpose": "It is the software for penetration testing",
@@ -267,7 +275,8 @@
     "Type": "Non-Functionality Testing",
     "CurrentVersion": "5.0",
     "Image": "https://jmeter.apache.org/images/logo.svg",
-    "More info": "https://jmeter.apache.org"},
+    "More info": "https://jmeter.apache.org"
+    },
    {
     "id": 32,
     "name": "Strom-Breaker",
@@ -276,10 +285,6 @@
     "CurrentVersion": "-",
     "Image": "https://raw.githubusercontent.com/ultrasecurity/Storm-Breaker/main/.imgs/Work1.png",
     "More info": "https://www.geeksforgeeks.org/storm-breaker-social-engineering-tool-in-linux/"
-
-
-  }
-]
 
 },
  {
@@ -291,3 +296,6 @@
     "Image": "https://images.app.goo.gl/fRuDC7uPLHaZnsh68",
     "More info": "https://www.liveaction.com/"
  }
+
+]
+
