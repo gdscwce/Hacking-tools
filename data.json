@@ -239,6 +239,25 @@
     "CurrentVersion": "2022.9.2",
     "Image": "https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg",
     "More info": "https://portswigger.net/"
+
+  }
+  {
+    "id": 30,
+    "name": "Web Links Scraper",
+    "purpose": "Tool for web app pentesting which check for broken links in the website",
+    "Type": "Links capture",
+    "CurrentVersion": "1.0",
+    "More info": "https://github.com/C15C01337/web-links-scraper.git"
+  }
+{
+    "id": 36,
+    "name": "gau (GetAllUrls)",
+    "purpose": " It is a free and open-source tool available on GitHub which is used for extracting all the URLs from a given domain. This tool is free means you can download and use this tool free of cost. It is used for reconnaissance of subdomains.",
+    "Type": "Used for Reconnaissance",
+    "CurrentVersion": "2.1.2",
+    "More info": "https://github.com/lc/gau.git"
+  
+
   },
 
   {
@@ -260,7 +279,7 @@
     "Image": "https://www.invicti.com/support/viewing-issues-invicti-standard/",
     "More info": "https://www.invicti.com/?utm_source=guru99.com&utm_medium=referral&utm_content=product%20description&utm_campaign=generic%20advert"
 }, {
-    "id": 30,
+    "id": 35,
     "name": "Metasploit",
     "purpose": "It is the software for penetration testing",
     "Type": "Authentication Capture",
@@ -306,6 +325,7 @@
     "Image": "https://images.app.goo.gl/fRuDC7uPLHaZnsh68",
     "More info": "https://www.liveaction.com/"
  }
+
 
 
 ]
