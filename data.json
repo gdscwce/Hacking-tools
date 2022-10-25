@@ -317,7 +317,7 @@
 
 },
  {
-    "id": 33,
+    "id": 383,
     "name": "LiveAction",
     "purpose": "It automates the capture of the network data required to quickly investigate security alerts and integrated appliance solutions",
     "Type": "Network Diagnose Platform",
@@ -325,6 +325,15 @@
     "Image": "https://images.app.goo.gl/fRuDC7uPLHaZnsh68",
     "More info": "https://www.liveaction.com/"
  },
+
+{
+    "id": 933,
+    "name": " THC Hydra",
+    "purpose": "This tool is a proof-of-concept code, designed to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.",
+    "Type": "Security Password Manager",
+    "CurrentVersion": " 9.1 ",
+    "Image": "https://th.bing.com/th/id/OIP.Rqm83IMbvCoycsMSKW3XGAAAAA?pid=ImgDet&rs=1",
+    "More info": "https://kalilinuxtutorials.com/thc-hydra/"
 
  {
   "id": 34,
