@@ -366,7 +366,17 @@
 
  }
 
+,
+   {
+    "id": 303,
+    "name": "John , The Ripper",
+    "purpose": "John the Ripper is a free password cracking software tool. ",
+    "Type": "Password Cracking",
+    "CurrentVersion": " ",
+    "Image": "https://static.wixstatic.com/media/4e884c_2ccd0499a9824a71a885b0d186ab6af3~mv2.png/v1/fit/w_400%2Ch_222%2Cal_c/file.png",
+    "More info": "https://github.com/openwall/john"
 
+ }
 
 
 
