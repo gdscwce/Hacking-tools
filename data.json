@@ -367,6 +367,16 @@
  }
 
 
+{
+    "id": 303,
+    "name": "  Subjack",
+    "purpose": "Subjack is a Subdomain Takeover tool written in Go designed to scan a list of subdomains.",
+    "Type": "host scanner",
+    "CurrentVersion": " 2.1 ",
+    "Image": " ",
+    "More info": "https://github.com/haccer/subjack"
+
+  }
 
 
 
