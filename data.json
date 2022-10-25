@@ -372,7 +372,7 @@
     "purpose": "fetch known URLs from the Wayback Machine for *.domain and output them on stdout..",
     "Type": "host analysis",
     "CurrentVersion": "0.1.0 ",
-    "Image": "https://www.ettercap-project.org/logo.png",
+    "Image": "",
     "More info": "https://github.com/tomnomnom/waybackurls/"
 
  }
