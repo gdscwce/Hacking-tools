@@ -324,7 +324,17 @@
     "CurrentVersion": " ",
     "Image": "https://images.app.goo.gl/fRuDC7uPLHaZnsh68",
     "More info": "https://www.liveaction.com/"
+ },
+{
+    "id": 301,
+    "name": "John-the-ripper",
+    "purpose": "Is to hack the password using various algorithm which we usually used during formation of num password",
+    "Type": "Password hacker",
+    "CurrentVersion": " ",
+    "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnapcraft.io%2Finstall%2Fjohn-the-ripper%2Fubuntu&psig=AOvVaw2Xk33TvBIze4fxMajKuKd7&ust=1666782032239000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCjzoud-_oCFQAAAAAdAAAAABAD",
+    "More info": "https://www.openwall.com/john/"
  }
+
 
 
 
