@@ -240,7 +240,7 @@
     "Image": "https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg",
     "More info": "https://portswigger.net/"
 
-  }
+  },
   {
     "id": 30,
     "name": "Web Links Scraper",
@@ -248,7 +248,7 @@
     "Type": "Links capture",
     "CurrentVersion": "1.0",
     "More info": "https://github.com/C15C01337/web-links-scraper.git"
-  }
+  },
 {
     "id": 36,
     "name": "gau (GetAllUrls)",
@@ -317,7 +317,7 @@
 
 },
  {
-    "id": 300,
+    "id": 383,
     "name": "LiveAction",
     "purpose": "It automates the capture of the network data required to quickly investigate security alerts and integrated appliance solutions",
     "Type": "Network Diagnose Platform",
@@ -325,15 +325,48 @@
     "Image": "https://images.app.goo.gl/fRuDC7uPLHaZnsh68",
     "More info": "https://www.liveaction.com/"
  },
+
 {
-    "id": 33,
+    "id": 933,
     "name": " THC Hydra",
     "purpose": "This tool is a proof-of-concept code, designed to give researchers and security consultants the possibility to show how easy it would be to gain unauthorized access from remote to a system.",
     "Type": "Security Password Manager",
     "CurrentVersion": " 9.1 ",
     "Image": "https://th.bing.com/th/id/OIP.Rqm83IMbvCoycsMSKW3XGAAAAA?pid=ImgDet&rs=1",
     "More info": "https://kalilinuxtutorials.com/thc-hydra/"
+
+ {
+  "id": 34,
+  "name": "Auvik",
+  "purpose": "Auvik is easy-to-use cloud-based networking management and monitoring software.",
+  "Type": "Network sniffing tools",
+  "CurrentVersion": "-",
+  "Image": "https://www.thesmbguide.com/images/auvik-1024x512-20190226.png",
+  "More info": "https://www.auvik.com/franklyit/videos/network-monitoring-tutorial-with-auvik-software/"
+}
+,
+
+{
+    "id": 301,
+    "name": "John-the-ripper",
+    "purpose": "Is to hack the password using various algorithm which we usually used during formation of num password",
+    "Type": "Password hacker",
+    "CurrentVersion": " ",
+    "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnapcraft.io%2Finstall%2Fjohn-the-ripper%2Fubuntu&psig=AOvVaw2Xk33TvBIze4fxMajKuKd7&ust=1666782032239000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCjzoud-_oCFQAAAAAdAAAAABAD",
+    "More info": "https://www.openwall.com/john/"
+},
+ {
+    "id": 302,
+    "name": "Ettercap",
+    "purpose": "Ettercap is a free tool that is best suited for creating custom plug-ins.",
+    "Type": "Network and host analysis",
+    "CurrentVersion": " ",
+    "Image": "https://www.ettercap-project.org/logo.png",
+    "More info": "https://www.ettercap-project.org/"
+
  }
+
+
 
 
 
